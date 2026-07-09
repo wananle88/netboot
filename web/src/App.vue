@@ -34,7 +34,7 @@
         </RouterLink>
       </nav>
       <div class="border-t px-3 py-2">
-        <a class="flex items-center gap-2 rounded-md px-2 py-1.5 text-xs text-neutral-500 transition hover:bg-neutral-100 hover:text-neutral-950" href="https://github.com/sky22333/netboot" target="_blank" rel="noreferrer">
+        <a class="flex items-center gap-2 rounded-md px-2 py-1.5 text-xs text-neutral-500 transition hover:bg-neutral-100 hover:text-neutral-950" href="https://github.com/wananle88/netboot" target="_blank" rel="noreferrer">
           <Github class="h-3.5 w-3.5" />
           GitHub
         </a>
@@ -59,7 +59,7 @@
           </RouterLink>
         </nav>
         <div class="border-t px-3 py-2">
-          <a class="flex items-center gap-2 rounded-md px-2 py-1.5 text-xs text-neutral-500 transition hover:bg-neutral-100 hover:text-neutral-950" href="https://github.com/sky22333/netboot" target="_blank" rel="noreferrer">
+          <a class="flex items-center gap-2 rounded-md px-2 py-1.5 text-xs text-neutral-500 transition hover:bg-neutral-100 hover:text-neutral-950" href="https://github.com/wananle88/netboot" target="_blank" rel="noreferrer">
             <Github class="h-3.5 w-3.5" />
             GitHub
           </a>

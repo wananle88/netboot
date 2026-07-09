@@ -1,6 +1,6 @@
 services:
   netboot:
-    image: ghcr.io/sky22333/netboot
+    image: ghcr.io/wananle88/netboot
     container_name: netboot
     restart: unless-stopped
     network_mode: host

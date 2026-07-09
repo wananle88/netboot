@@ -16,7 +16,7 @@
 
 ### windows运行
 
-[Releases](https://github.com/sky22333/netboot/releases)页面下载构建好的二进制文件
+[Releases](https://github.com/wananle88/netboot/releases)页面下载构建好的二进制文件
 
 下载后解压，双击打开即可运行。
 
@@ -36,7 +36,7 @@
 ### Linux运行
 一键脚本
 ```
-curl -fsSL -o netboot.sh https://raw.githubusercontent.com/sky22333/netboot/main/netboot.sh
+curl -fsSL -o netboot.sh https://raw.githubusercontent.com/wananle88/netboot/main/netboot.sh
 chmod +x netboot.sh
 ./netboot.sh
 ```
@@ -54,7 +54,7 @@ docker run -d \
   --restart unless-stopped \
   --network host \
   -v $(pwd)/data:/data \
-  ghcr.io/sky22333/netboot
+  ghcr.io/wananle88/netboot
 ```
 默认web端口：8088
 

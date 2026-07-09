@@ -3,7 +3,7 @@
 set -eu
 
 BIN_NAME="pxe"
-REPO_URL="https://github.com/sky22333/netboot"
+REPO_URL="https://github.com/wananle88/netboot"
 LATEST_DOWNLOAD_URL="$REPO_URL/releases/latest/download"
 INSTALL_DIR="/usr/local/bin"
 BIN_PATH="$INSTALL_DIR/$BIN_NAME"
